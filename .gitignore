@@ -1,0 +1,28 @@
+# Firmware build outputs
+build/
+Debug/
+Release/
+*.obj
+*.o
+*.out
+*.elf
+*.hex
+*.bin
+*.map
+*.d
+*.dep
+
+# Local IDE settings and generated metadata
+.metadata/
+.settings/
+.vscode/
+.idea/
+*.launch
+*.log
+
+# Editor and operating-system files
+*~
+*.bak
+.DS_Store
+Thumbs.db
+Desktop.ini
